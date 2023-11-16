@@ -1,5 +1,4 @@
-# Hi 🐖
-Long time no see
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymyuuu&layout=compact&theme=dynamic" alt="logo" height="auto" align="right" width="auto" />
-# 幸有我来山未孤
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ymyuuu&theme=dracula" alt="logo" align="right" width="50%" />
 
+# Hi 🐖
+# Long time no see
